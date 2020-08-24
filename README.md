@@ -1,3 +1,3 @@
 # THP-Events_JS
 
-Merci pour la coorection :)
+Merci pour la correction :)
